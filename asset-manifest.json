@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Random-quotes-app/static/css/main.a54478d2.chunk.css",
+    "main.js": "/Random-quotes-app/static/js/main.8944a213.chunk.js",
+    "main.js.map": "/Random-quotes-app/static/js/main.8944a213.chunk.js.map",
+    "runtime-main.js": "/Random-quotes-app/static/js/runtime-main.e704bec2.js",
+    "runtime-main.js.map": "/Random-quotes-app/static/js/runtime-main.e704bec2.js.map",
+    "static/js/2.d11c9252.chunk.js": "/Random-quotes-app/static/js/2.d11c9252.chunk.js",
+    "static/js/2.d11c9252.chunk.js.map": "/Random-quotes-app/static/js/2.d11c9252.chunk.js.map",
+    "index.html": "/Random-quotes-app/index.html",
+    "static/css/main.a54478d2.chunk.css.map": "/Random-quotes-app/static/css/main.a54478d2.chunk.css.map",
+    "static/js/2.d11c9252.chunk.js.LICENSE.txt": "/Random-quotes-app/static/js/2.d11c9252.chunk.js.LICENSE.txt",
+    "static/media/Twitter-icon2.7a3054e3.png": "/Random-quotes-app/static/media/Twitter-icon2.7a3054e3.png",
+    "static/media/angel-child2.7960c96b.png": "/Random-quotes-app/static/media/angel-child2.7960c96b.png",
+    "static/media/demon-child.1fedfa3d.png": "/Random-quotes-app/static/media/demon-child.1fedfa3d.png",
+    "static/media/tumblr-icon.c8287978.png": "/Random-quotes-app/static/media/tumblr-icon.c8287978.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e704bec2.js",
+    "static/js/2.d11c9252.chunk.js",
+    "static/css/main.a54478d2.chunk.css",
+    "static/js/main.8944a213.chunk.js"
+  ]
+}
